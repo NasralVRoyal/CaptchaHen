@@ -16,7 +16,7 @@ from telegram.ext import (
 # ================== НАСТРОЙКИ БОТА ==================
 
 # Токен бота (ТВОЙ)
-BOT_TOKEN = "8568717574:AAEFMhqvccnZ6u0Go_BDyppSK0Ph9Maraho"
+BOT_TOKEN = "8520271990:AAGHQGPdr01j3Tfn6iWU0JyuH12uHAGR3tw"
 
 # ID канала (ТВОЙ приватный канал)
 CHANNEL_ID = -1001920136785
